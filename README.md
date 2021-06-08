@@ -11,4 +11,6 @@ If Maker Event "bat_high", then turn off Outlet
 And one to turn it on when the battery is drained:
 If Maker Event "bat_low", then turn on Outlet
 
-Then the script can be scheduled to run in cron.
+Put your IFTTT key in the both of the https calls in the script, in place of "YourKeyHere"
+
+Make the script executable, and then it can be scheduled to run in cron.
