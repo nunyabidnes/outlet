@@ -1,6 +1,6 @@
 # outlet
 
-This is just a bash script that can be used to control a smart plug via IFTTT webhooks and Smart Life. You need linked IFTTT and Smart Life accounts.
+This is a bash script that can be used to control Linux laptop charging via a smart plug, IFTTT webhooks, and Smart Life. You need linked IFTTT and Smart Life accounts.
 
 To use this script, create 2 applets using IFTTT webhooks:
 
