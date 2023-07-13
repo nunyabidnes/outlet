@@ -1,8 +1,8 @@
 # outlet
 
-This is just a bash script that can be used to control a smart plug via IFTTT and Smart Life. You need linked IFTTT and Smart Life accounts.
+This is just a bash script that can be used to control a smart plug via IFTTT webhooks and Smart Life. You need linked IFTTT and Smart Life accounts.
 
-To use this script, create 2 applets using webhooks:
+To use this script, create 2 applets using IFTTT webhooks:
 
 One to turn off the outlet when the battery is sufficently charged:
 If Maker Event "bat_high", then turn off Outlet
